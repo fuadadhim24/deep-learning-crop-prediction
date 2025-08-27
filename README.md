@@ -22,6 +22,8 @@ pip install -r requirements.txt
 ```
 
 ### 4. Run the Code
+- **To run the final experiment code:**
+    Open `main.ipynb` and run the notebook step by step.
 - **To run the optimized/experiment code:**
   ```
   python main.py
